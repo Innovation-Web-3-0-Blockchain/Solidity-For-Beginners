@@ -16,7 +16,7 @@ Welcome to the `Solidity-For-Beginners` repository. This project aims to assist 
 
 ## Getting Started
 
-To explore and engage with the `Solidity for Beginners` project, follow these steps:
+To explore and engage with the `SolidityBeginners` project, follow these steps:
 
 1. Clone this repository to your local machine.
 
@@ -30,9 +30,9 @@ To explore and engage with the `Solidity for Beginners` project, follow these st
    npm install
    ```
 
-   **Note:** For the sake of simplifying the learning of Solidity, we have not included any deployment scripts.
+**Note:** For the sake of simplifying the learning of Solidity, we have not included any deployment scripts.
 
-3. Open the [Solidity Contract Guide](./Solidity-Beginners-Guide/SimpleCount.md) and ensure you follow the numerical order.
+3. Open the [Solidity Beginners Guide](./Solidity-Beginners-Guide/SimpleCount.md) and ensure you follow the numerical order.
 
 ## Contributing
 
