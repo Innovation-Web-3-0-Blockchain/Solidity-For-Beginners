@@ -22,7 +22,6 @@
 7. **Transaction Confirmation**:
    - If the deployment is successful, you will receive a transaction hash as confirmation.
    - Your account balance will be reduced by a small amount (less than 1 ether) due to gas fees.
-   - After deployment, copy and save the contract's deployment address.
 
 8. **Interact with the Contract**:
    - Under the "Deployed Contracts" section, you should see your deployed contract. It will have two tabs for the functions you defined in your contract.
@@ -38,4 +37,4 @@
 11. **Get the Count Again**:
     - Click on the "getCount" function once more. This time, you should see a count of 1, as it reflects the change you made by incrementing it.
 
-That's it! You've successfully deployed and interacted with a simple smart contract using Remix.
+That's it! You've successfully deployed and interacted with your first basic smart contract using Remix. You can head to the next lesson by clicking this link: [Variables and Data Types](VariablesAndDataTypes.md)

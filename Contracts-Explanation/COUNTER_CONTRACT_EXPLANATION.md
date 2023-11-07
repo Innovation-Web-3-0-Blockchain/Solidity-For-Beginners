@@ -15,7 +15,7 @@ Solidity is an object-oriented language used for writing smart contracts on the 
 contract Counter {
     // Code goes here [...]
 
-}
+    }
 ```
 
 ## State Variable
@@ -32,16 +32,16 @@ contract Counter {
     }
 
     // Read Function
-
     // The `getCount` function is a read function with `public` visibility. 
     // It returns the current value of `count` when called.
+    
     function getCount() public view returns (uint) {  
         return count;
     }
 
     // Write Function
-
     // The `incrementCount` function is a write function that modifies the value of `count` when called.
+
     function incrementCount() public {
         count = count + 1; // Changing the state of the blockchain incurs gas costs.
     }
