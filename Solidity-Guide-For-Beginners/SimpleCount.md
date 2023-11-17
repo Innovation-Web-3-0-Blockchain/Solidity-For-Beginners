@@ -27,7 +27,7 @@ Before we get started, make sure you have the following:
 
 4. **Deploy the Contract**:
    - Click the "Deploy" button in Remix. This will create an instance of your contract on the Ethereum blockchain.
-   - Use an Ethereum virtual machine (VM) environment account with at least 100 ethers to cover gas fees.
+   - Use an Ethereum virtual machine (VM) environment account with 100 ethers to cover gas fees.
 
 5. **Transaction Confirmation**:
    - Upon successful deployment, you will receive a transaction hash as confirmation.
