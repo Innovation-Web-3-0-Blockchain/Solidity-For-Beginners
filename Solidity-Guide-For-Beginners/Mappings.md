@@ -23,7 +23,6 @@ Before we get started, make sure you have the following:
    - You'll need an Ethereum virtual machine (VM) environment account with 100 ethers to cover gas fees.
 
 3. **Using Mapping:**
-
    - Start by getting the named back by typing 1 in the "Names" tab; it should return token0.
 
    - Utilize the `addToken` function by entering the ID (e.g., 1), the token name (e.g., ETH), the amount (e.g., 1), and click "Transact" to complete the transaction, paying the associated gas fees.
@@ -36,4 +35,4 @@ Before we get started, make sure you have the following:
 
 ### Conclusion
 
-In this lesson, you've successfully navigated through the fundamental concepts of mapping in Solidity. You engaged with practical exercises, inputting ID in the "Names" tab to witness the corresponding result.The `addToken` function exposed you to the process of adding tokens, involving the specification of ID, name, and amount. The "Tokens" tab provided you with a tangible experience in reading data from the mapping, allowing you to retrieve information about added tokens. In the `myToken` function, you discovered the additional step of account address in the "Address" tab to retrieve the added token, Feel free to advance to the next lesson and continue your journey into the intricacies of Solidity: [Update in progress...]
+In this lesson, you've successfully navigated through the fundamental concepts of mapping in Solidity. You engaged with practical exercises, inputting ID in the "Names" tab to witness the corresponding result.The `addToken` function exposed you to the process of adding tokens, involving the specification of ID, name, and amount. The "Tokens" tab provided you with a tangible experience in reading data from the mapping, allowing you to retrieve information about added tokens. In the `myToken` function, you discovered the additional step of account address in the "Address" tab to retrieve the added token, Feel free to advance to the next lesson and continue your journey into the intricacies of Solidity: [Conditionnals and Loops](ConditionnalsAndLoops.md)
