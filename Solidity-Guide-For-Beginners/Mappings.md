@@ -11,6 +11,7 @@ Before we get started, make sure you have the following:
 
 2. **Import the Smart Contract**:
    - Import the smart contract named `Mappings.sol` from the [Contract Repository](../contracts). You can do this by either uploading the file or copying and pasting the code into Remix.
+   
    - **Note:** For a better understanding of the code within the `Mappings.sol` contract, please see our [Contracts Explanation Documentation](../Contracts-Explanation/MAPPINGS_CONTRACT_EXPLANATION.md).
 
 ## Getting Started

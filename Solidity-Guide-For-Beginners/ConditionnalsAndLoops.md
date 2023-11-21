@@ -11,6 +11,7 @@ Before we get started, make sure you have the following:
 
 2. **Import the Smart Contract**:
    - Import the smart contract named `ConditionalsAndLoops.sol` from the [Contract Repository](../contracts). You can do this by either uploading the file or copying and pasting the code into Remix.
+   
    - **Note:** For a better understanding of the code within the `ConditionalsAndLoops.sol` contract, please refer to our [Contracts Explanation Documentation](../Contracts-Explanation/CONDITIONALS_AND_LOOPS_CONTRACT_EXPLANATION.md).
 
 ## Getting Started
@@ -40,6 +41,8 @@ Before we get started, make sure you have the following:
 
 ### Conclusion
 
-In this lesson, you've successfully interacted with basic Solidity conditionals and loops. You've explored functions such as `countEvenNumbers` and `isEvenNumber`, understanding how they contribute to the logical flow of your smart contract. In the upcoming lesson, you will have the opportunity to integrate all the individual concept into a comprehensive smart contract. This will involve combining conditionals, loops, and other Solidity features to create a more sophisticated and functional piece of code. Feel free to delve into the next lesson to further enhance your understanding and proficiency in Solidity development. [Update in progress...]
+In this lesson, you've successfully interacted with basic Solidity conditionals and loops. You've explored functions such as `countEvenNumbers` and `isEvenNumber`, understanding how they contribute to the logical flow of your smart contract. In the upcoming lesson, you will have the opportunity to integrate all the individual aspects you've learned into a comprehensive smart contract. Feel free to navigate to the next lesson: [Full Contract](HotelRoom.md)
+
+
 
 
