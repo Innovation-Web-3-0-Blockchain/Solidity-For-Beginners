@@ -43,4 +43,4 @@ Before we get started, make sure you have the following:
 
 ## Conclusion
 
-Congratulations on successfully creating your first complex smart contract. As we wrap up this foundational tutorial, take a moment to reflect on your impressive journey. Before diving into more advanced projects, explore the final lesson available at the following link: [Update in progress]. This last module will provide valuable insights for your ongoing growth in blockchain development.
+Congratulations on successfully creating your first complex smart contract. As we wrap up this foundational tutorial, take a moment to reflect on your impressive journey. Before diving into more advanced projects, explore the final lesson available at the following link: [Inheritance](Inheritance.md) This last module will provide valuable insights for your ongoing growth in blockchain development.
