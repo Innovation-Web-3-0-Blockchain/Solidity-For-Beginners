@@ -31,8 +31,4 @@ Before we get started, make sure you have the following:
 
 ### Conclusion
 
-Congratulations! You have completed this beginner's guide. By following this guide, you've gained practical experience in Solidity.
-If you're eager to get deeper into blockchain development, navigate back to the [Blockchain Hub](https://github.com/Innovation-Web-3-0-Blockchain) page for more advanced topics and resources. 
-
-Your journey into blockchain development has just begun! 
-
+In this lesson, you've explored how a contract can inherit from another one. The first, `Ownable`, establishes ownership through a modifier, allowing only the owner to execute certain functions. The second, `SecretVault`, stores a secret and enforces ownership for access. The third contract, `Inheritance`, inherits from `Ownable` and creates an instance of `SecretVault` during initialization. It introduces a function, `getSecretFromVault`, allowing the contract owner to retrieve the stored secret. As we wrap up this foundational tutorial, take a moment to reflect on your impressive journey. The last lesson will guide you on how to use the Hardhat framework on your local computer to test your contracts for your development. Explore the final lesson available at the following link: [Testing Contracts](TestingContracts.md).

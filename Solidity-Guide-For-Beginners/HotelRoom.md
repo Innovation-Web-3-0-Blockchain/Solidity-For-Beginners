@@ -43,4 +43,4 @@ Before we get started, make sure you have the following:
 
 ## Conclusion
 
-Congratulations on successfully creating your first complex smart contract. As we wrap up this foundational tutorial, take a moment to reflect on your impressive journey. Before diving into more advanced projects, explore the final lesson available at the following link: [Inheritance](Inheritance.md) This last module will provide valuable insights for your ongoing growth in blockchain development.
+Congratulations on successfully creating your first complex smart contract. In this exploration of the `HotelRoom` smart contract, you've encountered key features such as enums, modifiers, and events. The contract facilitates a basic hotel room booking system, enforcing conditions like vacancy and correct payment through modifiers. The `bookRoom` function orchestrates the booking process, changing room status, transferring funds, and emitting an event. This example demonstrates the integration of fundamental elements in decentralized application development. To continue your learning, you can advance to the next lesson: [Inheritance](Inheritance.md)
